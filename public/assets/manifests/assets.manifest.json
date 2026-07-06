@@ -1,0 +1,9 @@
+{
+  "schema": "pennycore.assets.v1",
+  "updated": "2026-07-06",
+  "inbox": "/assets/_inbox/2026-07-06-batch-001/",
+  "cards": [],
+  "favicons": {},
+  "video": [],
+  "notes": "Generated scaffold. Assets are staged first, then classified by manifest."
+}

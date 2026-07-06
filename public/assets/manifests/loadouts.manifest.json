@@ -1,0 +1,23 @@
+{
+  "schema": "pennycore.loadouts.v1",
+  "defaultLoadout": "matt-after-hours",
+  "loadouts": [
+    {
+      "id": "matt-after-hours",
+      "title": "Matt's Personal Loadout",
+      "spinnerMode": "card-orbit",
+      "centerAvatar": "penny-after-hours-hologram",
+      "slots": [
+        "pennycore-watch",
+        "pink-portal-gun",
+        "dragon-orb-d20",
+        "rick-easy-button",
+        "black-lotus-choker",
+        "zero-sugar-can",
+        "spade-crown",
+        "operator-jacket",
+        "command-heels"
+      ]
+    }
+  ]
+}
