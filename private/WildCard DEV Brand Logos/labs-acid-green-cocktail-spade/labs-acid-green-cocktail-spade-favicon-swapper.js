@@ -1,0 +1,5 @@
+const LabsAcidGreenCocktailSpadeFaviconFrames=Array.from({length:16},(_,i)=>`./frames_64/labs-acid-green-cocktail-spade-frame-${String(i).padStart(2,'0')}.png`);
+const LabsAcidGreenCocktailSpadeStatic='./labs-acid-green-cocktail-spade-static-32.png'; let LabsAcidGreenCocktailSpadeTimer=null; let LabsAcidGreenCocktailSpadeIndex=0;
+function setLabsAcidGreenCocktailSpadeFavicon(href){let link=document.querySelector("link[rel='icon']"); if(!link){link=document.createElement('link'); link.rel='icon'; document.head.appendChild(link);} link.href=href;}
+function startLabsAcidGreenCocktailSpadeFavicon(intervalMs=90){if(LabsAcidGreenCocktailSpadeTimer) return; LabsAcidGreenCocktailSpadeTimer=window.setInterval(()=>{setLabsAcidGreenCocktailSpadeFavicon(LabsAcidGreenCocktailSpadeFaviconFrames[LabsAcidGreenCocktailSpadeIndex%LabsAcidGreenCocktailSpadeFaviconFrames.length]); LabsAcidGreenCocktailSpadeIndex+=1;},intervalMs);}
+function stopLabsAcidGreenCocktailSpadeFavicon(){window.clearInterval(LabsAcidGreenCocktailSpadeTimer); LabsAcidGreenCocktailSpadeTimer=null; LabsAcidGreenCocktailSpadeIndex=0; setLabsAcidGreenCocktailSpadeFavicon(LabsAcidGreenCocktailSpadeStatic);}

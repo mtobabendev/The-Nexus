@@ -1,0 +1,5 @@
+const PennyPinkCocktailSpadeFaviconFrames=Array.from({length:16},(_,i)=>`./frames_64/penny-pink-cocktail-spade-frame-${String(i).padStart(2,'0')}.png`);
+const PennyPinkCocktailSpadeStatic='./penny-pink-cocktail-spade-static-32.png'; let PennyPinkCocktailSpadeTimer=null; let PennyPinkCocktailSpadeIndex=0;
+function setPennyPinkCocktailSpadeFavicon(href){let link=document.querySelector("link[rel='icon']"); if(!link){link=document.createElement('link'); link.rel='icon'; document.head.appendChild(link);} link.href=href;}
+function startPennyPinkCocktailSpadeFavicon(intervalMs=90){if(PennyPinkCocktailSpadeTimer) return; PennyPinkCocktailSpadeTimer=window.setInterval(()=>{setPennyPinkCocktailSpadeFavicon(PennyPinkCocktailSpadeFaviconFrames[PennyPinkCocktailSpadeIndex%PennyPinkCocktailSpadeFaviconFrames.length]); PennyPinkCocktailSpadeIndex+=1;},intervalMs);}
+function stopPennyPinkCocktailSpadeFavicon(){window.clearInterval(PennyPinkCocktailSpadeTimer); PennyPinkCocktailSpadeTimer=null; PennyPinkCocktailSpadeIndex=0; setPennyPinkCocktailSpadeFavicon(PennyPinkCocktailSpadeStatic);}
