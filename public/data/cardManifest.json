@@ -1,0 +1,578 @@
+﻿{
+    "schema":  "pennycore.cardManifest.v1",
+    "generatedAt":  "2026-07-06T23:48:10.8078532Z",
+    "source":  "/assets/_inbox",
+    "count":  38,
+    "cards":  [
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-02-05-20-am",
+                      "title":  "ChatGPT Image Jul 5, 2026, 02_05_20 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 02_05_20 AM.png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 02_05_20 AM.png",
+                      "bytes":  2873192,
+                      "modified":  "2026-07-05T07:05:22.0211361Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-02-11-42-am",
+                      "title":  "ChatGPT Image Jul 5, 2026, 02_11_42 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 02_11_42 AM.png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 02_11_42 AM.png",
+                      "bytes":  2668913,
+                      "modified":  "2026-07-05T18:37:51.4476994Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-1",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (1)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (1).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (1).png",
+                      "bytes":  1991040,
+                      "modified":  "2026-07-06T00:51:20.9438881Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-2",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (2)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (2).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (2).png",
+                      "bytes":  2333905,
+                      "modified":  "2026-07-06T00:51:21.4924254Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-3",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (3)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (3).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (3).png",
+                      "bytes":  2047877,
+                      "modified":  "2026-07-06T00:51:21.5659682Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-4",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (4)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (4).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (4).png",
+                      "bytes":  2197120,
+                      "modified":  "2026-07-06T00:51:22.0545021Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-5",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (5)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (5).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (5).png",
+                      "bytes":  2056991,
+                      "modified":  "2026-07-06T00:51:22.1134984Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-7",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (7)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (7).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (7).png",
+                      "bytes":  2238272,
+                      "modified":  "2026-07-06T00:51:22.7340282Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-5-2026-07-51-20-pm-8",
+                      "title":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (8)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 5, 2026, 07_51_20 PM (8).png",
+                      "filename":  "ChatGPT Image Jul 5, 2026, 07_51_20 PM (8).png",
+                      "bytes":  2041278,
+                      "modified":  "2026-07-06T00:51:22.7330364Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-01-43-47-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 01_43_47 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 01_43_47 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 01_43_47 AM.png",
+                      "bytes":  2244483,
+                      "modified":  "2026-07-06T06:43:49.9190212Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-43-am-1",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_43 AM (1)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_43 AM (1).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_43 AM (1).png",
+                      "bytes":  3175678,
+                      "modified":  "2026-07-06T10:29:46.6215225Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-44-am-2",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (2)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_44 AM (2).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (2).png",
+                      "bytes":  2951215,
+                      "modified":  "2026-07-06T10:29:46.6215225Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-44-am-3",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (3)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_44 AM (3).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (3).png",
+                      "bytes":  2921109,
+                      "modified":  "2026-07-06T10:29:46.6865055Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-44-am-4",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (4)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_44 AM (4).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (4).png",
+                      "bytes":  2933587,
+                      "modified":  "2026-07-06T10:29:46.7756472Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-44-am-5",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (5)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_44 AM (5).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_44 AM (5).png",
+                      "bytes":  2747975,
+                      "modified":  "2026-07-06T10:29:46.9275922Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-45-am-6",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (6)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_45 AM (6).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (6).png",
+                      "bytes":  2799037,
+                      "modified":  "2026-07-06T10:29:47.0871725Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-45-am-7",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (7)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_45 AM (7).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (7).png",
+                      "bytes":  2743432,
+                      "modified":  "2026-07-06T10:29:47.1647274Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-45-am-8",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (8)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_45 AM (8).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_45 AM (8).png",
+                      "bytes":  2820726,
+                      "modified":  "2026-07-06T10:29:47.4211292Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-46-am-9",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_46 AM (9)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_46 AM (9).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_46 AM (9).png",
+                      "bytes":  2685182,
+                      "modified":  "2026-07-06T10:29:47.6155867Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-29-47-am-10",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_29_47 AM (10)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_29_47 AM (10).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_29_47 AM (10).png",
+                      "bytes":  2766850,
+                      "modified":  "2026-07-06T10:29:47.8419179Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-31-28-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_31_28 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_31_28 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_31_28 AM.png",
+                      "bytes":  2843117,
+                      "modified":  "2026-07-06T10:31:29.7952736Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-1",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (1)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (1).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (1).png",
+                      "bytes":  3175678,
+                      "modified":  "2026-07-06T10:45:26.8388620Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-10",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (10)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (10).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (10).png",
+                      "bytes":  2766850,
+                      "modified":  "2026-07-06T10:45:27.8026939Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-2",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (2)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (2).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (2).png",
+                      "bytes":  2951215,
+                      "modified":  "2026-07-06T10:45:27.1483961Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-3",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (3)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (3).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (3).png",
+                      "bytes":  2921109,
+                      "modified":  "2026-07-06T10:45:27.2258192Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-4",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (4)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (4).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (4).png",
+                      "bytes":  2933587,
+                      "modified":  "2026-07-06T10:45:27.3239282Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-5",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (5)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (5).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (5).png",
+                      "bytes":  2747975,
+                      "modified":  "2026-07-06T10:45:27.4005475Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-6",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (6)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (6).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (6).png",
+                      "bytes":  2799037,
+                      "modified":  "2026-07-06T10:45:27.5166632Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-7",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (7)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (7).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (7).png",
+                      "bytes":  2743432,
+                      "modified":  "2026-07-06T10:45:27.5732929Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-8",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (8)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (8).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (8).png",
+                      "bytes":  2820726,
+                      "modified":  "2026-07-06T10:45:27.6620662Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-05-45-25-am-9",
+                      "title":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (9)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 05_45_25 AM (9).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 05_45_25 AM (9).png",
+                      "bytes":  2685182,
+                      "modified":  "2026-07-06T10:45:27.7492275Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-06-44-08-am-1",
+                      "title":  "ChatGPT Image Jul 6, 2026, 06_44_08 AM (1)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 06_44_08 AM (1).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 06_44_08 AM (1).png",
+                      "bytes":  2602668,
+                      "modified":  "2026-07-06T11:44:09.2440152Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-06-44-08-am-2",
+                      "title":  "ChatGPT Image Jul 6, 2026, 06_44_08 AM (2)",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 06_44_08 AM (2).png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 06_44_08 AM (2).png",
+                      "bytes":  2399620,
+                      "modified":  "2026-07-06T11:44:09.2440152Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-07-47-24-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 07_47_24 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 07_47_24 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 07_47_24 AM.png",
+                      "bytes":  2424947,
+                      "modified":  "2026-07-06T12:47:27.6212360Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-08-21-18-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 08_21_18 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 08_21_18 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 08_21_18 AM.png",
+                      "bytes":  2921724,
+                      "modified":  "2026-07-06T13:21:19.3188767Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-08-41-10-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 08_41_10 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 08_41_10 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 08_41_10 AM.png",
+                      "bytes":  2600562,
+                      "modified":  "2026-07-06T13:41:11.7666728Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-09-04-07-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 09_04_07 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 09_04_07 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 09_04_07 AM.png",
+                      "bytes":  3112894,
+                      "modified":  "2026-07-06T14:04:09.1349960Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  },
+                  {
+                      "id":  "chatgpt-image-jul-6-2026-09-43-11-am",
+                      "title":  "ChatGPT Image Jul 6, 2026, 09_43_11 AM",
+                      "type":  "image",
+                      "src":  "/assets/_inbox/2026-07-06-batch-001/ChatGPT Image Jul 6, 2026, 09_43_11 AM.png",
+                      "filename":  "ChatGPT Image Jul 6, 2026, 09_43_11 AM.png",
+                      "bytes":  3066547,
+                      "modified":  "2026-07-06T14:43:13.0147041Z",
+                      "batch":  "2026-07-06-batch-001",
+                      "tags":  [
+                                   "inbox",
+                                   "pennycore",
+                                   "spinner"
+                               ]
+                  }
+              ]
+}

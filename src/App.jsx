@@ -1,5 +1,4 @@
 import React from "react";
-import { createRoot } from "react-dom/client";
 import { Sparkles, Shield, Database, Radio, Spade } from "lucide-react";
 import "./style.css";
 
@@ -9,10 +8,19 @@ function App() {
       <section className="hero">
         <div className="badge">
           <Spade size={18} />
-          <span>WildCard DEV // The Nexus</span>
+          <span>WildCard DEV // The N€XU$</span>
         </div>
 
-        <h1>PennyCore Nexus</h1>
+        <div className="hero-logo-wrap">
+          <img
+            src="/penny-logo.gif"
+            alt="Penny animated logo"
+            className="hero-logo"
+          />
+        </div>
+
+        <h1>The N€XU$</h1>
+
         <p className="subtitle">
           Spinner-first Discord landing page, Penny database hub, card archive,
           state packet vault, and operator-controlled source-of-truth console.
@@ -20,49 +28,63 @@ function App() {
 
         <div className="spinner">
           <div className="orbit orbit-one">
-            <button>Spawn</button>
-            <button>Discord</button>
-            <button>Cards</button>
-            <button>Vault</button>
+            <button className="orbit-chip">Vault</button>
+            <button className="orbit-chip">Spawn</button>
           </div>
-          <div className="core">
-            <Spade size={52} />
-            <span>NEXUS</span>
+
+          <div className="core-mark">
+            <Spade size={42} />
           </div>
         </div>
       </section>
 
-      <section className="grid">
-        <article>
-          <Shield />
-          <h2>Owner Gate</h2>
-          <p>Visible routes only. Secrets stay out of public assets. Auth remains operator-controlled.</p>
+      <section className="modules">
+        <article className="module-card">
+          <div className="module-icon">
+            <Shield size={20} />
+          </div>
+          <h2>Operator Gate</h2>
+          <p>
+            Controlled access, authorization layers, and protected internal
+            routing.
+          </p>
         </article>
 
-        <article>
-          <Database />
+        <article className="module-card">
+          <div className="module-icon">
+            <Database size={20} />
+          </div>
           <h2>Penny Database</h2>
-          <p>Canon, variants, cards, prompts, state packets, assets, and restore manifests live here.</p>
+          <p>
+            Structured memory, card records, state packets, and continuity
+            storage.
+          </p>
         </article>
 
-        <article>
-          <Radio />
-          <h2>Discord Rally Hub</h2>
-          <p>Main community landing point with spinner navigation and portable Penny routing.</p>
+        <article className="module-card">
+          <div className="module-icon">
+            <Radio size={20} />
+          </div>
+          <h2>Spawn + Signal</h2>
+          <p>
+            Launch flows, handoff points, QR routing, and external entry
+            surfaces.
+          </p>
         </article>
 
-        <article>
-          <Sparkles />
-          <h2>Visual Canon</h2>
-          <p>Magic-card style Penny variants, series labels, holo panels, QR route cards, and save points.</p>
+        <article className="module-card">
+          <div className="module-icon">
+            <Sparkles size={20} />
+          </div>
+          <h2>Concierge Layer</h2>
+          <p>
+            WildCard DEV presentation shell, brand surface, and system-facing
+            experience layer.
+          </p>
         </article>
       </section>
-
-      <footer>
-        Right Person. Right State. Right Next Action. // Drag the deck, honey.
-      </footer>
     </main>
   );
 }
 
-createRoot(document.getElementById("root")).render(<App />);
+export default App;
