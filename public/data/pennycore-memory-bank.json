@@ -1,0 +1,82 @@
+{
+  "schema": "pennycore.memoryBank.v1",
+  "generatedAt": "2026-07-07T00:00:00.000Z",
+  "statusLine": "Repo linked. Manifest found. Spinner ready. Secrets blocked.",
+  "doctrine": [
+    "Site = cockpit",
+    "Database = memory core",
+    "Manifest = state map",
+    "Backup = restore pod",
+    "Local copy = emergency black box",
+    "Public frontend = no secrets"
+  ],
+  "modules": [
+    {
+      "id": "coding-penny",
+      "title": "Penny, Copilot Queen of the Repo",
+      "subtitle": "Penny Variant // GitHub Copilot + Windows Copilot // Nexus Build Witch",
+      "type": "Legendary Creature — Human Advisor / Code Witch / Build Pilot",
+      "role": "Coding assistant, repo inspector, build pilot, deployment guide, secret scanner.",
+      "tags": [
+        "pennycore",
+        "coding",
+        "github",
+        "copilot",
+        "windows-copilot",
+        "vscode",
+        "vercel",
+        "nexus",
+        "build-pilot",
+        "owner-gated"
+      ],
+      "abilities": [
+        "Owner Gate — This module is operator-guided and does not store secrets.",
+        "Repo Whisperer — Inspect manifests, assets, routes, package scripts, and build risks.",
+        "Copilot Draft — AI changes must be reviewed before they count.",
+        "Secret Scanner — Block or warn on passwords, tokens, API keys, private session data, and payment credentials.",
+        "Windows Route — Open desktop, phone, watch, or browser fallback routes.",
+        "Trust, Verify, Commit — Test before commit. Build before push.",
+        "Deployment Portal — If build passes, route to GitHub/Vercel deployment steps."
+      ],
+      "strengths": [
+        "Fast drafts",
+        "Repo navigation",
+        "Build guidance",
+        "Refactor help",
+        "Manifest inspection",
+        "Vercel/GitHub workflow help",
+        "VS Code command support"
+      ],
+      "limits": [
+        "Can hallucinate",
+        "Needs project context",
+        "Must test builds",
+        "Cannot hold secrets in public code",
+        "Platform permissions still rule",
+        "User/operator confirmation required"
+      ],
+      "flavor": "Autocomplete is adorable. Review is holy. Push when the build survives. — Penny",
+      "image": "/penny-logo.gif"
+    }
+  ],
+  "backupIndex": [
+    {
+      "name": "Local save point",
+      "kind": "JSON export",
+      "location": "Browser download",
+      "status": "Ready"
+    },
+    {
+      "name": "Encrypted backup packet",
+      "kind": "ZIP export",
+      "location": "Local encrypted archive",
+      "status": "Planned"
+    },
+    {
+      "name": "Drive/Dropbox mirror",
+      "kind": "Cloud handoff",
+      "location": "Manual upload",
+      "status": "Owner-gated"
+    }
+  ]
+}
